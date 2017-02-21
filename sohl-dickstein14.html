@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Hamiltonian Monte Carlo Without Detailed Balance | ICML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Hamiltonian Monte Carlo Without Detailed Balance">
+
+  <meta name="citation_author" content="Sohl-Dickstein, Jascha">
+
+  <meta name="citation_author" content="Mudigonda, Mayur">
+
+  <meta name="citation_author" content="DeWeese, Michael">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of The 31st International Conference on Machine Learning">
+<meta name="citation_firstpage" content="719">
+<meta name="citation_lastpage" content="726">
+<meta name="citation_pdf_url" content="http://jmlr.org/proceedings/papers/v32/sohl-dickstein14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Hamiltonian Monte Carlo Without Detailed Balance</h1>
+
+	<div id="authors">
+	
+		Jascha Sohl-Dickstein,
+	
+		Mayur Mudigonda,
+	
+		Michael DeWeese
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 31st International Conference on Machine Learning,
+		pp. 719–726, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We present a method for performing Hamiltonian Monte Carlo that largely eliminates sample rejection. In situations that would normally lead to rejection, instead a longer trajectory is computed until a new state is reached that can be accepted. This is achieved using Markov chain transitions that satisfy the fixed point equation, but do not satisfy detailed balance. The resulting algorithm significantly suppresses the random walk behavior and wasted function evaluations that are typically the consequence of update rejection. We demonstrate a greater than factor of two improvement in mixing time on three test problems. We release the source code as Python and MATLAB packages.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="http://jmlr.org/proceedings/papers/v32/sohl-dickstein14.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

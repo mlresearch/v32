@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search | ICML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search">
+
+  <meta name="citation_author" content="Shrivastava, Anshumali">
+
+  <meta name="citation_author" content="Li, Ping">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of The 31st International Conference on Machine Learning">
+<meta name="citation_firstpage" content="557">
+<meta name="citation_lastpage" content="565">
+<meta name="citation_pdf_url" content="http://jmlr.org/proceedings/papers/v32/shrivastava14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search</h1>
+
+	<div id="authors">
+	
+		Anshumali Shrivastava,
+	
+		Ping Li
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 31st International Conference on Machine Learning,
+		pp. 557–565, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		The query complexity of <span><em>locality sensitive hashing (LSH)</em></span> based similarity search is dominated by the number of hash evaluations, and this number grows with the data size <span class="citation"></span>. In industrial applications such as search where the data are often high-dimensional and binary (e.g., text <span class="math">\(n\)</span>-grams), <span><em>minwise hashing</em></span> is widely adopted, which requires applying a large number of permutations on the data. This is costly in computation and energy-consumption. In this paper, we propose a hashing technique which generates all the necessary hash evaluations needed for similarity search, using one single permutation. The heart of the proposed hash function is a “rotation” scheme which densifies the sparse sketches of <span><em>one permutation hashing</em></span> <span class="citation"></span> in an unbiased fashion thereby maintaining the LSH property. This makes the obtained sketches suitable for hash table construction. This idea of rotation presented in this paper could be of independent interest for densifying other types of sparse sketches. Using our proposed hashing method, the query time of a <span class="math">\((K,L)\)</span>-parameterized LSH is reduced from the typical <span class="math">\(O(dKL)\)</span> complexity to merely <span class="math">\(O(KL+dL)\)</span>, where <span class="math">\(d\)</span> is the number of nonzeros of the data vector, <span class="math">\(K\)</span> is the number of hashes in each hash table, and <span class="math">\(L\)</span> is the number of hash tables. Our experimental evaluation on real data confirms that the proposed scheme significantly reduces the query processing time over minwise hashing without loss in retrieval accuracies.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="http://jmlr.org/proceedings/papers/v32/shrivastava14.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

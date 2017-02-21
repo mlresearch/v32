@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Coding for Random Projections | ICML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Coding for Random Projections">
+
+  <meta name="citation_author" content="Li, Ping">
+
+  <meta name="citation_author" content="Mitzenmacher, Michael">
+
+  <meta name="citation_author" content="Shrivastava, Anshumali">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of The 31st International Conference on Machine Learning">
+<meta name="citation_firstpage" content="676">
+<meta name="citation_lastpage" content="684">
+<meta name="citation_pdf_url" content="lie14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Coding for Random Projections</h1>
+
+	<div id="authors">
+	
+		Ping Li,
+	
+		Michael Mitzenmacher,
+	
+		Anshumali Shrivastava
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 31st International Conference on Machine Learning,
+		pp. 676–684, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		The method of random projections has become popular for large-scale applications in statistical learning, information retrieval, bio-informatics and other applications. Using a well-designed <strong>coding</strong> scheme for the projected data, which determines the number of bits needed for each projected value and how to allocate these bits, can significantly improve the effectiveness of the algorithm, in storage cost as well as computational speed. In this paper, we study a number of simple coding schemes, focusing on the task of similarity estimation and on an application to training linear classifiers. We demonstrate that <strong>uniform quantization</strong> outperforms the standard and influential method <span class="citation"></span>, which used a <span><em>window-and-random offset</em></span> scheme. Indeed, we argue that in many cases coding with just a small number of bits suffices. Furthermore, we also develop a <strong>non-uniform 2-bit</strong> coding scheme that generally performs well in practice, as confirmed by our experiments on training linear support vector machines (SVM). Proofs and additional experiments are available at <span><em>arXiv:1308.2218</em></span>. In the context of using coded random projections for <strong>approximate near neighbor search</strong> by building hash tables (<span><em>arXiv:1403.8144</em></span>) <span class="citation"></span>, we show that the step of random offset in <span class="citation"></span> is again not needed and may hurt the performance. Furthermore, we show that, unless the target similarity level is high, it usually suffices to use only 1 or 2 bits to code each hashed value for this task. Section [sec<sub>L</sub>SH] presents some experimental results for LSH.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="lie14.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

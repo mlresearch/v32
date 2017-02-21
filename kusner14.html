@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Stochastic Neighbor Compression | ICML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Stochastic Neighbor Compression">
+
+  <meta name="citation_author" content="Kusner, Matt">
+
+  <meta name="citation_author" content="Tyree, Stephen">
+
+  <meta name="citation_author" content="Weinberger, Kilian">
+
+  <meta name="citation_author" content="Agrawal, Kunal">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of The 31st International Conference on Machine Learning">
+<meta name="citation_firstpage" content="622">
+<meta name="citation_lastpage" content="630">
+<meta name="citation_pdf_url" content="kusner14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Stochastic Neighbor Compression</h1>
+
+	<div id="authors">
+	
+		Matt Kusner,
+	
+		Stephen Tyree,
+	
+		Kilian Weinberger,
+	
+		Kunal Agrawal
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 31st International Conference on Machine Learning,
+		pp. 622–630, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We present Stochastic Neighborhood Compression (SNC), an algorithm to compress a dataset for the purpose of k-nearest neighbor (kNN) classification. Given training data, SNC learns a much smaller synthetic data set, that minimizes the stochastic 1-nearest neighbor classification error on the training data. This approach has several appealing properties: due to its small size, the compressed set speeds up kNN testing drastically (up to several orders of magnitude, in our experiments); it makes the kNN classifier substantially more robust to label noise; on 4 of 7 data sets it yields lower test error than kNN on the entire training set, even at compression ratios as low as 2%; finally, the SNC compression leads to impressive speed ups over kNN even when kNN and SNC are both used with ball-tree data structures, hashing, and LMNN dimensionality reduction, demonstrating that it is complementary to existing state-of-the-art algorithms to speed up kNN classification and leads to substantial further improvements.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="kusner14.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>

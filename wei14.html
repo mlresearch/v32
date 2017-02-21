@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Fast Multi-stage Submodular Maximization | ICML 2014 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="Fast Multi-stage Submodular Maximization">
+
+  <meta name="citation_author" content="Wei, Kai">
+
+  <meta name="citation_author" content="Iyer, Rishabh">
+
+  <meta name="citation_author" content="Bilmes, Jeff">
+
+<meta name="citation_publication_date" content="2014">
+<meta name="citation_conference_title" content="Proceedings of The 31st International Conference on Machine Learning">
+<meta name="citation_firstpage" content="1494">
+<meta name="citation_lastpage" content="1502">
+<meta name="citation_pdf_url" content="wei14.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1>Fast Multi-stage Submodular Maximization</h1>
+
+	<div id="authors">
+	
+		Kai Wei,
+	
+		Rishabh Iyer,
+	
+		Jeff Bilmes
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of The 31st International Conference on Machine Learning,
+		pp. 1494–1502, 2014
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		We introduce a new multi-stage algorithmic framework for submodular maximization. We are motivated by extremely large scale machine learning problems, where both storing the whole data for function evaluation and running the standard accelerated greedy algorithm are prohibitive. We propose a multi-stage framework (called MultGreed), where at each stage we apply an approximate greedy procedure to maximize surrogate submodular functions. The surrogates serve as proxies for a target submodular function but require less memory and are easy to evaluate. We theoretically analyze the performance guarantee of the multi-stage framework, and give examples on how to design instances of MultGreed for a broad range of natural submodular functions. We show that MultGreed performs very close to the standard greedy algorithm, given appropriate surrogate functions, and argue how our framework can easily be integrated with distributive algorithms for optimization. We complement our theory by empirically evaluating on several real world problems, including data subset selection on millions of speech samples, where MultGreed yields at least a thousand times speedup and superior results over the state-of-the-art selection methods.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="wei14.pdf">Download PDF</a></li>
+			
+			<li><a href="wei14-supp.pdf">Supplementary (PDF)</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
