@@ -1,0 +1,50 @@
+# Site settings
+# Auto generated from v32.bib
+---
+booktitle: Proceedings of The 31st International Conference on Machine Learning
+shortname: ICML
+publisher: PMLR
+volume: 32
+number: '1'
+month: 1
+start: 2014-06-22
+end: 2014-06-24
+published: 2014-01-27
+sections:
+- name: cycle-1
+  title: Cycle 1 Papers
+- name: cycle-2
+  title: Cycle 2 Papers
+year: '2014'
+layout: proceedings
+id: ICML-2014
+abstract: ''
+editor:
+- given: Eric P.
+  family: Xing
+- given: Tony
+  family: Jebara
+title: Proceedings of The 31st International Conference on Machine Learning
+email: ''
+description: Proceedings of The 31st International Conference on Machine Learning,
+  Bejing, China
+url: http://proceedings.mlr.press
+baseurl: "/v32"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v32
+conference:
+  name: International Conference on Machine Learning
+  url: http://icml.cc/2014/
+  location: Bejing, China
+  dates:
+  - 2014-06-22
+  - 2014-06-23
+  - 2014-06-24
+analytics:
+  google:
+    tracking_id: UA-92432422-1
