@@ -12,6 +12,7 @@ abstract: We present an adaptive variant of the exponentiated gradient algorithm
   payoffs, which may be of independent interest.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: steinhardtb14
 month: 0
 firstpage: 1593

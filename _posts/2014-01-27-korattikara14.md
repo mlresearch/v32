@@ -12,6 +12,7 @@ abstract: Can we make Bayesian posterior MCMC sampling more efficient when faced
   an asymptotic bias, we show that this bias can be controlled and is more than offset
   by a decrease in variance due to our ability to draw more samples per unit of time.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: korattikara14
 month: 0
 firstpage: 181

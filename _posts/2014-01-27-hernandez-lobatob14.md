@@ -15,6 +15,7 @@ abstract: We propose a probabilistic matrix factorization model for collaborativ
   research on NMAR models will yield large gains in collaborative  filtering.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: hernandez-lobatob14
 month: 0
 firstpage: 1512

@@ -13,6 +13,7 @@ abstract: Representing examples in a way that is compatible with the underlying 
   classifiers built from these features on three different tasks, obtaining state
   of the art results.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: karampatziakis14
 month: 0
 firstpage: 494

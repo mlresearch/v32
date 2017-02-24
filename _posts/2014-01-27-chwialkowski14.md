@@ -12,6 +12,7 @@ abstract: A non-parametric approach to the problem of testing the independence o
   number of false positives.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: chwialkowski14
 month: 0
 firstpage: 1422

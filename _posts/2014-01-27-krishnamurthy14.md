@@ -12,6 +12,7 @@ abstract: We consider nonparametric estimation of L_2, Renyi-αand Tsallis-αdiv
   our theoretical guarantees with a number of simulations.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: krishnamurthy14
 month: 0
 firstpage: 919

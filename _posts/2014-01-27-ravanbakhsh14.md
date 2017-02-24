@@ -16,6 +16,7 @@ abstract: We study the min-max problem in factor graphs, which seeks the assignm
   size instances.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: ravanbakhsh14
 month: 0
 firstpage: 1035

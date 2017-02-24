@@ -11,6 +11,7 @@ abstract: We study linear control problems with quadratic losses and adversarial
   we present an exponentially-weighted average algorithm for this problem, and we
   give regret bounds that grow as O(\sqrt T).
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: abbasi-yadkori14
 month: 0
 firstpage: 369

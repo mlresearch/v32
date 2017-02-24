@@ -13,6 +13,7 @@ abstract: We tackle the problem of inferring node labels in a partially labeled 
   60% for  recall@3.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: chakrabarti14
 month: 0
 firstpage: 874

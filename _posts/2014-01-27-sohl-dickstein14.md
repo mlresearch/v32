@@ -12,6 +12,7 @@ abstract: We present a method for performing Hamiltonian Monte Carlo that largel
   improvement in mixing time on three test problems.  We release the source code as
   Python and MATLAB packages.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: sohl-dickstein14
 month: 0
 firstpage: 719

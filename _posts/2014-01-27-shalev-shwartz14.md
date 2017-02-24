@@ -10,6 +10,7 @@ abstract: We introduce a proximal version of the stochastic dual coordinate asce
   regression, ridge regression, Lasso, and multiclass SVM. Experiments validate our
   theoretical findings.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shalev-shwartz14
 month: 0
 firstpage: 64

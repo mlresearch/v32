@@ -15,6 +15,7 @@ abstract: Given a graph, the Densest k-Subgraph (\DkS) problem asks for the subg
   significantly higher density compared to the previous state of the art.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: papailiopoulos14
 month: 0
 firstpage: 1890

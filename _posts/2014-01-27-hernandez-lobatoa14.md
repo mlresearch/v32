@@ -14,6 +14,7 @@ abstract: Fully observed large binary matrices appear in a wide variety of conte
   that adjusts this hyper-parameter online.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: hernandez-lobatoa14
 month: 0
 firstpage: 379

@@ -18,6 +18,7 @@ abstract: We present an algorithm for minimizing a sum of functions that combine
   as open source Python and MATLAB packages.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: sohl-dicksteinb14
 month: 0
 firstpage: 604

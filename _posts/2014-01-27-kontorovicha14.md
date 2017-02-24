@@ -14,6 +14,7 @@ abstract: We prove an extension of McDiarmid’s inequality for metric spaces wi
   the subgaussian technique to other Orlicz norms.
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kontorovicha14
 month: 0
 firstpage: 28

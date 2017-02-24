@@ -22,6 +22,7 @@ abstract: The query complexity of \em locality sensitive hashing (LSH) based sim
   reduces the query processing time over minwise hashing without loss in retrieval
   accuracies.
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: shrivastava14
 month: 0
 firstpage: 557

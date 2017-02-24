@@ -14,6 +14,7 @@ abstract: 'We develop a general framework for margin-based multicategory classif
   n) time and evaluated on new points in O(\log n) time.'
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: kontorovichb14
 month: 0
 firstpage: 892

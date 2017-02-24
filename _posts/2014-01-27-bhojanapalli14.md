@@ -18,6 +18,7 @@ abstract: 'The problem of low-rank matrix completion has recently generated a lo
   analyses of the nuclear norm method.'
 section: cycle-2
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: bhojanapalli14
 month: 0
 firstpage: 1881
