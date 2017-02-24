@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v32/abbasi-yadkori14/abbasi-yadkori14.pdf
+pdf: http://proceedings.mlr.press/v32/abbasi-yadkori14.pdf
 section: cycle-1
 supplementary: Supplementary:abbasi-yadkori14-supp.pdf
 title: Tracking Adversarial Targets
@@ -28,7 +28,7 @@ author:
 date: 2014-01-27
 address: Bejing, China
 publisher: PMLR
-container-title: Proceedings of The 31st International Conference on Machine Learning
+container-title: Proceedings of the 31st International Conference on Machine Learning
 volume: '32'
 genre: inproceedings
 issued:

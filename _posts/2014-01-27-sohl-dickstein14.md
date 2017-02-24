@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v32/sohl-dickstein14/sohl-dickstein14.pdf
+pdf: http://proceedings.mlr.press/v32/sohl-dickstein14.pdf
 section: cycle-1
 title: Hamiltonian Monte Carlo Without Detailed Balance
 abstract: We present a method for performing Hamiltonian Monte Carlo that largely
@@ -29,7 +29,7 @@ author:
 date: 2014-01-27
 address: Bejing, China
 publisher: PMLR
-container-title: Proceedings of The 31st International Conference on Machine Learning
+container-title: Proceedings of the 31st International Conference on Machine Learning
 volume: '32'
 genre: inproceedings
 issued:

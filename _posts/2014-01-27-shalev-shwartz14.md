@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v32/shalev-shwartz14/shalev-shwartz14.pdf
+pdf: http://proceedings.mlr.press/v32/shalev-shwartz14.pdf
 section: cycle-1
 title: Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized Loss
   Minimization
@@ -25,7 +25,7 @@ author:
 date: 2014-01-27
 address: Bejing, China
 publisher: PMLR
-container-title: Proceedings of The 31st International Conference on Machine Learning
+container-title: Proceedings of the 31st International Conference on Machine Learning
 volume: '32'
 genre: inproceedings
 issued:

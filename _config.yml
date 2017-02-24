@@ -1,5 +1,5 @@
 ---
-booktitle: Proceedings of The 31st International Conference on Machine Learning
+booktitle: Proceedings of the 31st International Conference on Machine Learning
 shortname: ICML
 publisher: PMLR
 volume: 32
@@ -23,9 +23,9 @@ editor:
   family: Xing
 - given: Tony
   family: Jebara
-title: Proceedings of The 31st International Conference on Machine Learning
+title: Proceedings of the 31st International Conference on Machine Learning
 email: ''
-description: Proceedings of The 31st International Conference on Machine Learning,
+description: Proceedings of the 31st International Conference on Machine Learning,
   Bejing, China
 url: http://proceedings.mlr.press
 baseurl: "/v32"

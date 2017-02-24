@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v32/karampatziakis14/karampatziakis14.pdf
+pdf: http://proceedings.mlr.press/v32/karampatziakis14.pdf
 section: cycle-1
 title: Discriminative Features via Generalized Eigenvectors
 abstract: Representing examples in a way that is compatible with the underlying classifier
@@ -28,7 +28,7 @@ author:
 date: 2014-01-27
 address: Bejing, China
 publisher: PMLR
-container-title: Proceedings of The 31st International Conference on Machine Learning
+container-title: Proceedings of the 31st International Conference on Machine Learning
 volume: '32'
 genre: inproceedings
 issued:

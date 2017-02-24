@@ -1,5 +1,5 @@
 ---
-pdf: http://proceedings.mlr.press/v32/shrivastava14/shrivastava14.pdf
+pdf: http://proceedings.mlr.press/v32/shrivastava14.pdf
 section: cycle-1
 title: Densifying One Permutation Hashing via Rotation for Fast Near Neighbor Search
 abstract: The query complexity of \em locality sensitive hashing (LSH) based similarity
@@ -37,7 +37,7 @@ author:
 date: 2014-01-27
 address: Bejing, China
 publisher: PMLR
-container-title: Proceedings of The 31st International Conference on Machine Learning
+container-title: Proceedings of the 31st International Conference on Machine Learning
 volume: '32'
 genre: inproceedings
 issued:
