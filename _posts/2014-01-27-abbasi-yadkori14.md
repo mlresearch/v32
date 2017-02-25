@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: abbasi-yadkori14
 month: 0
+tex_title: Tracking Adversarial Targets
 firstpage: 369
 lastpage: 377
 page: 369-377

@@ -13,6 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shalev-shwartz14
 month: 0
+tex_title: Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularized
+  Loss Minimization
 firstpage: 64
 lastpage: 72
 page: 64-72

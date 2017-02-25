@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hernandez-lobatoa14
 month: 0
+tex_title: Stochastic Inference for Scalable Probabilistic Modeling of Binary Matrices
 firstpage: 379
 lastpage: 387
 page: 379-387

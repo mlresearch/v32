@@ -21,6 +21,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sohl-dicksteinb14
 month: 0
+tex_title: Fast large-scale optimization by unifying stochastic gradient and quasi-Newton
+  methods
 firstpage: 604
 lastpage: 612
 page: 604-612

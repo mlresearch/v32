@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: karampatziakis14
 month: 0
+tex_title: Discriminative Features via Generalized Eigenvectors
 firstpage: 494
 lastpage: 502
 page: 494-502

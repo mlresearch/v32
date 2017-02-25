@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kontorovicha14
 month: 0
+tex_title: Concentration in unbounded metric spaces and algorithmic stability
 firstpage: 28
 lastpage: 36
 page: 28-36

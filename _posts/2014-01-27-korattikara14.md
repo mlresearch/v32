@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: korattikara14
 month: 0
+tex_title: 'Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget'
 firstpage: 181
 lastpage: 189
 page: 181-189

@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: hernandez-lobatob14
 month: 0
+tex_title: Probabilistic Matrix Factorization with Non-random Missing Data
 firstpage: 1512
 lastpage: 1520
 page: 1512-1520

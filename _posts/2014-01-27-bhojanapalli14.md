@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: bhojanapalli14
 month: 0
+tex_title: Universal Matrix Completion
 firstpage: 1881
 lastpage: 1889
 page: 1881-1889

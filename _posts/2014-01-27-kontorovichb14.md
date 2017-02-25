@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kontorovichb14
 month: 0
+tex_title: Maximum Margin Multiclass Nearest Neighbors
 firstpage: 892
 lastpage: 900
 page: 892-900

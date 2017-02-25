@@ -25,6 +25,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: shrivastava14
 month: 0
+tex_title: Densifying One Permutation Hashing via Rotation for Fast Near Neighbor
+  Search
 firstpage: 557
 lastpage: 565
 page: 557-565

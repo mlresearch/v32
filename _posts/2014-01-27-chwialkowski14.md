@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: chwialkowski14
 month: 0
+tex_title: A Kernel Independence Test for Random Processes
 firstpage: 1422
 lastpage: 1430
 page: 1422-1430

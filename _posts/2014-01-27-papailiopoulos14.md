@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: papailiopoulos14
 month: 0
+tex_title: Finding Dense Subgraphs via Low-Rank Bilinear Optimization
 firstpage: 1890
 lastpage: 1898
 page: 1890-1898

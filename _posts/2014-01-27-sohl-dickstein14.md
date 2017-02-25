@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: sohl-dickstein14
 month: 0
+tex_title: Hamiltonian Monte Carlo Without Detailed Balance
 firstpage: 719
 lastpage: 726
 page: 719-726

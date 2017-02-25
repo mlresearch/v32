@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: krishnamurthy14
 month: 0
+tex_title: Nonparametric Estimation of Renyi Divergence and Friends
 firstpage: 919
 lastpage: 927
 page: 919-927

@@ -16,6 +16,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: chakrabarti14
 month: 0
+tex_title: Joint Inference of Multiple Label Types in Large Networks
 firstpage: 874
 lastpage: 882
 page: 874-882

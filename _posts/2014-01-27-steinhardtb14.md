@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: steinhardtb14
 month: 0
+tex_title: 'Adaptivity and Optimism: An Improved Exponentiated Gradient Algorithm'
 firstpage: 1593
 lastpage: 1601
 page: 1593-1601

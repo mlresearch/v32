@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ravanbakhsh14
 month: 0
+tex_title: Min-Max Problems on Factor Graphs
 firstpage: 1035
 lastpage: 1043
 page: 1035-1043

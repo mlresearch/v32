@@ -18,12 +18,13 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ICML-2014
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Eric P.
   family: Xing
 - given: Tony
   family: Jebara
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 31st International Conference on Machine Learning
     Held in Bejing, China on 22-24 June 2014
