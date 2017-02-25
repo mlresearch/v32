@@ -23,10 +23,20 @@ editor:
   family: Xing
 - given: Tony
   family: Jebara
-title: Proceedings of the 31st International Conference on Machine Learning
-email: ''
-description: Proceedings of the 31st International Conference on Machine Learning,
-  Bejing, China
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 31st International Conference on Machine Learning
+    Held in Bejing, China on 22-24 June 2014
+
+  Published as Volume 32 by the Proceedings of Machine Learning Research on 27 January 2014.
+
+  Volume Edited by:
+    Eric P. Xing
+    Tony Jebara
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v32"
 twitter_username: mlresearch
@@ -36,6 +46,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v32
+email: ''
 conference:
   name: International Conference on Machine Learning
   url: http://icml.cc/2014/
