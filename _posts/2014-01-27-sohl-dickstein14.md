@@ -19,7 +19,8 @@ tex_title: Hamiltonian Monte Carlo Without Detailed Balance
 firstpage: 719
 lastpage: 726
 page: 719-726
-sections: 
+order: 719
+cycles: false
 author:
 - given: Jascha
   family: Sohl-Dickstein
@@ -28,6 +29,7 @@ author:
 - given: Michael
   family: DeWeese
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

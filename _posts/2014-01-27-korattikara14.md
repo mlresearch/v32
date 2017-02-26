@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v32/korattikara14.pdf
 section: cycle-1
-supplementary: Supplementary:korattikara14-supp.pdf
+supplementary: http://proceedings.mlr.press/v32/korattikara14-supp.pdf
 title: 'Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget'
 abstract: Can we make Bayesian posterior MCMC sampling more efficient when faced with
   very large datasets? We argue that computing the likelihood for N datapoints in
@@ -19,7 +19,8 @@ tex_title: 'Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget'
 firstpage: 181
 lastpage: 189
 page: 181-189
-sections: 
+order: 181
+cycles: false
 author:
 - given: Anoop
   family: Korattikara
@@ -28,6 +29,7 @@ author:
 - given: Max
   family: Welling
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

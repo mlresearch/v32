@@ -20,13 +20,15 @@ tex_title: Discriminative Features via Generalized Eigenvectors
 firstpage: 494
 lastpage: 502
 page: 494-502
-sections: 
+order: 494
+cycles: false
 author:
 - given: Nikos
   family: Karampatziakis
 - given: Paul
   family: Mineiro
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

@@ -30,13 +30,15 @@ tex_title: Densifying One Permutation Hashing via Rotation for Fast Near Neighbo
 firstpage: 557
 lastpage: 565
 page: 557-565
-sections: 
+order: 557
+cycles: false
 author:
 - given: Anshumali
   family: Shrivastava
 - given: Ping
   family: Li
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

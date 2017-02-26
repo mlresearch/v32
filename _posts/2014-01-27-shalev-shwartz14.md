@@ -18,13 +18,15 @@ tex_title: Accelerated Proximal Stochastic Dual Coordinate Ascent for Regularize
 firstpage: 64
 lastpage: 72
 page: 64-72
-sections: 
+order: 64
+cycles: false
 author:
 - given: Shai
   family: Shalev-Shwartz
 - given: Tong
   family: Zhang
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

@@ -1,7 +1,7 @@
 ---
 pdf: http://proceedings.mlr.press/v32/abbasi-yadkori14.pdf
 section: cycle-1
-supplementary: Supplementary:abbasi-yadkori14-supp.pdf
+supplementary: http://proceedings.mlr.press/v32/abbasi-yadkori14-supp.pdf
 title: Tracking Adversarial Targets
 abstract: We study linear control problems with quadratic losses and adversarially
   chosen tracking targets. We present an efficient algorithm for this problem and
@@ -18,7 +18,8 @@ tex_title: Tracking Adversarial Targets
 firstpage: 369
 lastpage: 377
 page: 369-377
-sections: 
+order: 369
+cycles: false
 author:
 - given: Yasin
   family: Abbasi-Yadkori
@@ -27,6 +28,7 @@ author:
 - given: Varun
   family: Kanade
 date: 2014-01-27
+number: 1
 address: Bejing, China
 publisher: PMLR
 container-title: Proceedings of the 31st International Conference on Machine Learning

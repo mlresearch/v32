@@ -11,8 +11,10 @@ published: 2014-01-27
 sections:
 - name: cycle-1
   title: Cycle 1 Papers
+  published: 2014-01-27
 - name: cycle-2
   title: Cycle 2 Papers
+  published: 2014-06-18
 year: '2014'
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -20,6 +22,7 @@ id: ICML-2014
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: true
 editor:
 - given: Eric P.
   family: Xing
@@ -29,7 +32,9 @@ description: |
   Proceedings of the 31st International Conference on Machine Learning
     Held in Bejing, China on 22-24 June 2014
 
-  Published as Volume 32 by the Proceedings of Machine Learning Research on 27 January 2014.
+  Published in 2 Sections as Volume 32 by the Proceedings of Machine Learning Research.
+    Cycle 1 Papers published on 27 January 2014
+    Cycle 2 Papers published on 18 June 2014
 
   Volume Edited by:
     Eric P. Xing
@@ -48,9 +53,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v32
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: International Conference on Machine Learning
