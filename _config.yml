@@ -19,15 +19,13 @@ year: '2014'
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ICML-2014
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: true
 editor:
 - given: Eric P.
   family: Xing
 - given: Tony
   family: Jebara
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 31st International Conference on Machine Learning
     Held in Bejing, China on 22-24 June 2014
@@ -46,7 +44,7 @@ description: |
 date_str: 22--24 Jun
 url: http://proceedings.mlr.press
 baseurl: "/v32"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -58,6 +56,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -73,3 +72,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v32.bib
+---
