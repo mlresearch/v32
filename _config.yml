@@ -30,7 +30,7 @@ editor:
 title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the 31st International Conference on Machine Learning
-    Held in Bejing, China on 22-24 June 2014
+    Held in Beijing, China on 22-24 June 2014
 
   Published in 2 Sections as Volume 32 by the Proceedings of Machine Learning Research.
     Cycle 1 Papers published on 27 January 2014
@@ -60,7 +60,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: mlresearch/jekyll-theme
 permalink: "/:title.html"
 ghub:
   edit: true
@@ -76,7 +76,7 @@ email: ''
 conference:
   name: International Conference on Machine Learning
   url: http://icml.cc/2014/
-  location: Bejing, China
+  location: Beijing, China
   dates:
   - 2014-06-22
   - 2014-06-23
